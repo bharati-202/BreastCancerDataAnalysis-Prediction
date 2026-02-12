@@ -1,2 +1,25 @@
-# BreastCancerDataAnalysis-Prediction
-Breast Cancer Data Analysis & Prediction: A Python project for analyzing breast cancer datasets, building prediction models (Logistic Regression, Random Forest), and visualizing results. Includes synthetic medical image preprocessing and classification.
+# Breast Cancer Mini Project
+
+This Project analysis and prediction for Breast Cancer data. 
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python cancer.py
+```
+
+## Features
+
+- Breast Cancer data analysis
+- Prediction models
+- Visualization
+
+## License
+
+MIT
